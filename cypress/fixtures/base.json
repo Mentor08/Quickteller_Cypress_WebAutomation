@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://rebirth-uat.quickteller.com/signin",
+  "title": "Quickteller",
+  "expected": "Sign in",
+  "firstname": "may",
+  "lastname": "dav",
+  "gender": "male",
+  "dateofbirth": "20/01/1990",
+  "pin": "1357"
+}

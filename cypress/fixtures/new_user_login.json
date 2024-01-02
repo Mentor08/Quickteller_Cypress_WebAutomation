@@ -1,0 +1,12 @@
+{
+  "comment": "login with valid credentials",
+  "phonenumber": "08107029351",
+  "password": "Abc12345.",
+  "email": "ekundayomayowa2013@gmail.com",
+  "firstname": "may",
+  "lastname": "dav",
+  "gender": "Male",
+  "dateofbirth": "20/01/1990",
+  "pin": "1357",
+  "expected": "may"
+}

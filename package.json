@@ -1,0 +1,19 @@
+{
+  "name": "com.quickteller",
+  "version": "1.0.0",
+  "description": "register and login functionality automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekundayo Mayowa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0",
+    "cypress-wait-until": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
